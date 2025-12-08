@@ -1,0 +1,5 @@
+{
+  "name": "TutorBond CV Screener",
+  "description": "An intelligent web application to upload, analyze, and filter tutor CVs. It uses Gemini to verify educational background and awards from provided evidence URLs, ensuring a higher standard of candidate selection.",
+  "requestFramePermissions": []
+}
