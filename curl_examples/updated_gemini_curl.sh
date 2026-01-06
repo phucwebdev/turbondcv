@@ -3,7 +3,7 @@
 # Updated Gemini curl example using the provided API key
 # WARNING: Do not commit this file with a real key in public repos.
 
-API_KEY="AIzaSyCGjOk-FRDty0EqANIprwtxz1Qq7ercV9I"
+API_KEY="AIzaSyDUPDgBKIo07DVMtetmcMLVuZlT963IzzE"
 
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" \
   -H 'Content-Type: application/json' \
